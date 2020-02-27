@@ -2,8 +2,8 @@
 <?php
 
 $author = '@author Marc MOREAU <moreau.marc.web@gmail.com>';
-$license = '@license https://github.com/request-for-comments/5234-PHP/blob/master/LICENSE.md CC-BY-SA-4.0';
-$link = '@link https://github.com/request-for-comments/5234-PHP/blob/master/README.md';
+$license = '@license https://github.com/request-for-comments/3986-PHP/blob/master/LICENSE.md CC-BY-SA-4.0';
+$link = '@link https://github.com/request-for-comments/3986-PHP/blob/master/README.md';
 
 $finder = PhpCsFixer\Finder::create()
     ->exclude('vendor')
